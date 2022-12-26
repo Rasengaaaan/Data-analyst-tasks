@@ -117,3 +117,5 @@ print(df[col.referer].value_counts())
 ```
 ![request](https://user-images.githubusercontent.com/83876027/209586948-e517059f-fbce-4876-b298-bab3b9d6d4e1.png)
 - 🙋‍♂️ There were 21711 times when the server didn't get any requests.
+
+# Thank you for your attention :)
